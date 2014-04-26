@@ -1,0 +1,8 @@
+{
+  "name": "meteor-grid",
+  "description": "Helpers for improving coding in Meteor",
+  "author": "Vojtech Rinik <vojto@rinik.net>",
+  "packages": {
+    "coffeescript": {}
+  }
+}
