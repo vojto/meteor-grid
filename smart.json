@@ -1,7 +1,10 @@
 {
   "name": "meteor-grid",
   "description": "Helpers for improving coding in Meteor",
+  "homepage": "https://github.com/vojto/meteor-grid",
   "author": "Vojtech Rinik <vojto@rinik.net>",
+  "version": "0.1",
+  "git": "https://github.com/vojto/meteor-grid.git",
   "packages": {
     "coffeescript": {}
   }
