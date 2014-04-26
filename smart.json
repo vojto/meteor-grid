@@ -3,7 +3,7 @@
   "description": "Helpers for improving coding in Meteor",
   "homepage": "https://github.com/vojto/meteor-grid",
   "author": "Vojtech Rinik <vojto@rinik.net>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/vojto/meteor-grid.git",
   "packages": {
   }
