@@ -2,8 +2,6 @@ window.Grid or= {}
 
 moduleKeywords = ['included', 'extended']
 
-assert = Grid.Util.assert
-
 class window.Controller
   constructor: (template) ->
 
